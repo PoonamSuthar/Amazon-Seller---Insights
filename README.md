@@ -1,1 +1,1 @@
-# Amazon-Seller---Insights
+# Amazon-Seller-Insights
